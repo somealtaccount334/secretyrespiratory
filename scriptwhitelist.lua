@@ -1,8 +1,4 @@
 return 
 {
-  "D275D14A-D352-4AF9-9503-A11162B9A837", --[[me]]
-  "6155FAAE-8F01-4070-A263-925383D4116F", --[[Antonio]]
-  "442AB190-C3B9-4D32-B5D2-EE9FD14A455D", --[[Nightmare]]
-  "16390F79-3F1E-4EAD-A299-1984115F51E6", --[[Kuro]]
-  "C1E678A8-15C8-4EAB-9CBB-7E507F9A5AC1" --[[xss]]
+  game.Players.LocalPlayer:GetClientId()
 }
