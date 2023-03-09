@@ -1,4 +1,4 @@
 return 
 {
-  game.Players.LocalPlayer:GetClientId()
+  game:GetService('RbxAnalyticsService'):GetClientId()
 }
