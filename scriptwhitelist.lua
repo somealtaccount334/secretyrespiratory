@@ -1,4 +1,4 @@
 return 
 {
-  game:GetService('Players').LocalPlayer.UserId
+  tostring(game:GetService('Players').LocalPlayer.UserId)
 }
